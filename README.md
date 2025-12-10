@@ -84,7 +84,7 @@
 </p>
 
 ---
-### Socials
+### 📸 Socials
 
 <p align="center">
   <a href="https://x.com/Gulmez4535">
