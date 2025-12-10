@@ -28,7 +28,7 @@ My long-term dream is to create impactful technologies that help place Turkey am
 **Other Interests:** Audio systems, robotics, microcontrollers, UAV/SIHA technologies, AI, autonomous systems
 
 ---
-
+<!--
 ## 📌 Öne Çıkan Projeler (Şablon)
 ```
 🔧 Project Title
@@ -39,15 +39,16 @@ My long-term dream is to create impactful technologies that help place Turkey am
 *(Projeler geldikçe bu alan doldurulacak.)*
 
 ---
+-->
 
 ## 📊 GitHub Analytics
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YSGulmez&show_icons=true&theme=transparent)
+      ![Stats](https://github-readme-stats.vercel.app/api?username=YSGulmez&show_icons=true&theme=transparent)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YSGulmez&theme=github-dark)
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YSGulmez&theme=github-dark)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YSGulmez&theme=onestar&no-bg=true&margin-w=15)
+       ![Trophy](https://github-profile-trophy.vercel.app/?username=YSGulmez&theme=onestar&no-bg=true&margin-w=15)
 
 </div>
 
@@ -56,7 +57,7 @@ My long-term dream is to create impactful technologies that help place Turkey am
 ## 🎖 Katılım Geçmişi
 - İzmir LBU Katılımı  
 - ROBOKOD Katılımı  
-- 3 yıl TÜBİTAK 4006 (son yıl 3 proje sunumu)  
+- 3 yıl TÜBİTAK 4006
 
 ---
 
@@ -78,9 +79,9 @@ My long-term dream is to create impactful technologies that help place Turkey am
 ---
 
 ## 💡 Motivasyon Sözü (Şablon)
-> "Buraya güçlü bir motto gelecek."
+> "Muhtaç olduğun kudret damarlarındaki asil kanda mevcuttur."
 
 ---
 
-### ⭐ README sürekli geliştiriliyor. Yeni projeler, görseller ve animasyonlar eklenecek!
+        ### ⭐ README sürekli geliştiriliyor. Yeni projeler, görseller ve animasyonlar eklenecek!
 
