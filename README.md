@@ -87,15 +87,15 @@
 ### Socials
 
 <p align="center">
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/Gulmez4535">
     <img src="https://cdn.simpleicons.org/x/1DA1F2" width="36">
   </a>&nbsp;&nbsp;
 
-  <a href="https://reddit.com/user/YOUR_USERNAME">
+  <a href="https://reddit.com/user/YS4335">
     <img src="https://cdn.simpleicons.org/reddit/FF4500/ffffff" width="36">
   </a>&nbsp;&nbsp;
 
-  <a href="https://open.spotify.com/user/YOUR_USERNAME">
+  <a href="https://open.spotify.com/user/4dfyfx2bn1d621i0wpers5x3y">
     <img src="https://cdn.simpleicons.org/spotify/1DB954/ffffff" width="36">
   </a>
 </p>
