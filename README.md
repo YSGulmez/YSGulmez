@@ -72,25 +72,42 @@
   <a href="mailto:yusufgulmez4535@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-      
   <a href="https://instagram.com/yusufgulmez4535">
     <img src="https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-  
   <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-_gulmez_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Discord-losephuss3450-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-  
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-  
 </p>
 
+---
+### Socials
+
+<p align="center">
+
+  <a href="https://x.com/Gulmez4535" target="_blank">
+    <img src="https://github.com/YSGulmez/YSGulmez/raw/main/icons/x.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://reddit.com/user/YS4335" target="_blank">
+    <img src="https://github.com/YSGulmez/YSGulmez/raw/main/icons/reddit.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://open.spotify.com/user/4dfyfx2bn1d621i0wpers5x3y" target="_blank">
+    <img src="https://github.com/YSGulmez/YSGulmez/raw/main/icons/spotify.svg" width="40" />
+  </a>
+
+</p>
+
+
+<br>
 ---
 
 ## 💡 Motivasyon Sözü
 <p align="center">
-  <em><strong>"İstikbal göklerdedir."</strong></em>  
+  <em><strong>"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur"</strong></em>  
   — Mustafa Kemal Atatürk
 </p>
