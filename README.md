@@ -88,16 +88,19 @@
 
 <p align="center">
   <a href="https://x.com/Gulmez4535">
-    <img src="https://cdn.simpleicons.org/x/1DA1F2" width="36">
+    <img src="https://imgs.search.brave.com/HRVOCp1e2FTl-wldeL5PKP29I735g8mxtpx2x_nV7CY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS94LXNvY2lh/bC1tZWRpYS13aGl0/ZS1pY29uLnBuZw" width="36">
   </a>&nbsp;&nbsp;
 
   <a href="https://reddit.com/user/YS4335">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500/ffffff" width="36">
+    <img src="https://imgs.search.brave.com/9d2AKhJdddXdP5oIZG8-dWMf8Ye9fBwsV_9W02YFlQ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTQyNzAv/cmVkZGl0LWljb24u/c3Zn" width="36">
   </a>&nbsp;&nbsp;
 
   <a href="https://open.spotify.com/user/4dfyfx2bn1d621i0wpers5x3y">
-    <img src="https://cdn.simpleicons.org/spotify/1DB954/ffffff" width="36">
-  </a>
+    <img src="https://imgs.search.brave.com/jdSgE6rbYbYNaAIotVL4SzlgSXXf9qKVcTTAlq9ylho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/Lzg0L1Nwb3RpZnlf/aWNvbi5zdmc" width="36">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCNq8uYHCiwsqup4I3tcn8-g">
+    <img src="https://imgs.search.brave.com/hAt5aAa8wESxUuZ8k-9b2b6ZEzka1nj1zpH5pnA2WUw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8xMzY3MS95/b3V0dWJlLnN2Zw" width="36">
+  </a>&nbsp;&nbsp;
 </p>
 
 
