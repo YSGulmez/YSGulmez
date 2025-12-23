@@ -78,8 +78,8 @@
   <a href="https://discord.com/users/">
     <img src="https://img.shields.io/badge/Discord-losephuss3450-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yusuf-selman-g-a84b9b293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Selman%20Gulmez-blue?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
