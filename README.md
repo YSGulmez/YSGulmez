@@ -72,7 +72,7 @@
   <a href="mailto:yusufgulmez4535@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://instagram.com/yusufgulmez4535">
+  <a href="https://instagram.com/yusufgulmez3450">
     <img src="https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://discord.com/users/">
