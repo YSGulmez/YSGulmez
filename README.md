@@ -72,16 +72,20 @@
   <a href="mailto:yusufgulmez4535@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
+
+  <a href="https://site.yusufgulmez4535.workers.dev/">
+    <img src="https://img.shields.io/badge/Website-Profile-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  </a>
+
   <a href="https://instagram.com/yusufgulmez3450">
-    <img src="https://img.shields.io/badge/Instagram-Profile-purple?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
-  <a href="https://discord.com/users/">
-    <img src="https://img.shields.io/badge/Discord-losephuss3450-5865F2?style=for-the-badge&logo=discord&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  </a>
+
   <a href="https://www.linkedin.com/in/yusuf-selman-g-a84b9b293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yusuf%20Selman%20Gulmez-blue?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
   </a>
 </p>
+
 
 ---
 ### 📸 Socials
