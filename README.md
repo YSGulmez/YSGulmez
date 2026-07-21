@@ -23,6 +23,8 @@ Hi! My name is Losephuss
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=black"/> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-F5980D?style=for-the-badge&logo=firebase&logoColor=white"/> &nbsp;&nbsp;&nbsp;
+
 </p>
 
 ---
