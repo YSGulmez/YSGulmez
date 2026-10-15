@@ -6,7 +6,7 @@
 ---
 Hi! My name is Yusuf Selman GÜLMEZ
 ---
-* 🏡 I live in Manisa
+* 👨‍💻 I am a junior developer.
 * ✉︎ You can contact me at [yusufgulmez4535@gmail.com](mailto:yusufgulmez4535@gmail.com)
 
 
