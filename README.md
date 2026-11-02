@@ -82,7 +82,7 @@ Hi! My name is Yusuf Selman GÜLMEZ
 ### Socials
 
 <p align="center">
-  <a href="https://x.com/Gulmez4535">
+  <a href="https://x.com/YSGulmez">
     <img src="https://imgs.search.brave.com/HRVOCp1e2FTl-wldeL5PKP29I735g8mxtpx2x_nV7CY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS94LXNvY2lh/bC1tZWRpYS13aGl0/ZS1pY29uLnBuZw" width="36">
   </a>&nbsp;&nbsp;
 
