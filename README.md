@@ -7,7 +7,7 @@ Hi! I'm **Yusuf Selman Gülmez**, a junior developer interested in software, har
 
 - 🔭 I explore web development, build Lua scripts for FiveM, and experiment with AI tools in my free time.
 - 👯 I’m open to collaborating on open-source, robotics, AI, web, and FiveM projects.
-- 🤝 I’m open to discussing future career paths, though I’m not actively looking for a mentor.
+- 🤝 I’m open to discussing future career paths, though.
 - 🌱 I’m learning web development, embedded systems, machine learning, Rust, Lua, TypeScript, and JavaScript.
 - 💬 Ask me about IT and networking.
 - ⚡ Fun fact: I’m still looking for one worth sharing!
