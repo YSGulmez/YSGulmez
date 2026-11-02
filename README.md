@@ -10,7 +10,7 @@ Hi! I'm **Yusuf Selman Gülmez**, a junior developer interested in software, har
 - 🤝 I’m open to discussing future career paths, though.
 - 🌱 I’m learning web development, embedded systems, machine learning, Rust, Lua, TypeScript, and JavaScript.
 - 💬 Ask me about IT and networking.
-- ⚡ Fun fact: I’m still looking for one worth sharing!
+<!--	- ⚡ Fun fact: I’m still looking for one worth sharing! --->
 - ✉️ Contact me at [mail@losephuss.com](mailto:mail@losephuss.com).
 
 
