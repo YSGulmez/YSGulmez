@@ -7,7 +7,7 @@
 Hi! My name is Yusuf Selman GÜLMEZ
 ---
 * 👨‍💻 I am a junior developer.
-* ✉︎ You can contact me at [yusufgulmez4535@gmail.com](mailto:yusufgulmez4535@gmail.com)
+* ✉︎ You can contact me at [mail@losephuss.com](mailto:mail@losephuss.com)
 
 
 
