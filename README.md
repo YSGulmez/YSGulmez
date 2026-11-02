@@ -34,6 +34,6 @@ Hi! I'm **Yusuf Selman Gülmez**, a junior developer interested in software, har
 ![](https://github-contributor-stats.vercel.app/api?username=YSGulmez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YSGulmez&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitor-badge.laobi.icu/badge?page_id=YSGulmez)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
