@@ -32,31 +32,10 @@ Hi! My name is Yusuf Selman GÜLMEZ
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YSGulmez&theme=github-dark" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YSGulmez&theme=neon&hide_border=true&timezone=GMT%2B3&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 ---
-<!--
-## 🎖 Katılım Geçmişi
-<p align="center">
-  <img src="https://img.shields.io/badge/İzmir%20LBU-Participation-green?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ROBOKOD-Participation-blue?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TUBITAK%204006-Participation-red?style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-</p>
-
----
--->
-
-<!--
-## 🎯 İlgi Alanları
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-black?style=flat-square" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microcontrollers-darkgreen?style=flat-square" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Network%20Systems-darkblue?style=flat-square" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-purple?style=flat-square" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UAV%20%2F%20SİHA-grey?style=flat-square" />&nbsp;&nbsp;&nbsp;
-</p>
--->
 
 ## Contact
 <p align="center">
